@@ -1,6 +1,8 @@
 # Snake Photo Editor - Python GUI application to edit images with various filters and enhancements.
 Fun project created as a experiment trying to recreate some of the photo editing software features purely in Python (which is probably a terrible idea).
 
+![SPE Interface](https://i.imgur.com/Ju8rUu5.png)
+
 Application created as a part of uni project and is not meant to be used in any professional setting, although can be helpful if you need to quickly edit some images.
 
 ## Features:
