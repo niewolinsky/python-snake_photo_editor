@@ -1,0 +1,4 @@
+filters.temperature(image, 15000)
+filters.tint(image, -20)
+filters.blur(image, 10)
+filters.contrast(image, 1.5)

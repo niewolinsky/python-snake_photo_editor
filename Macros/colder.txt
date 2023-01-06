@@ -1,0 +1,4 @@
+filters.sharpen(image, 2)
+filters.temperature(image, 10500)
+filters.color(image, 0.88)
+filters.brightness(image, 1.25)

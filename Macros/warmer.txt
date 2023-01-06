@@ -1,0 +1,3 @@
+filters.color(image, 1.5)
+filters.temperature(image, 4000)
+filters.contrast(image, 1.25)

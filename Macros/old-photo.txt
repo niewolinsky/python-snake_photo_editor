@@ -1,0 +1,3 @@
+filters.sharpen(image, 5)
+filters.grayscale(image)
+tools.frame(image, 25, (0, 0, 0, 255))
